@@ -102,6 +102,7 @@ p {
     font-weight: bold;
     color: antiquewhite;
     background-color: black;
+    box-sizing: border-box;
     display: block;
 }
 
